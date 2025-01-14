@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const App = () => {
   return (
     <main className="container mt-3">
-      <h1 className="mb-3">Featured Restaurants</h1>
+      <h1 className="mb-5">Featured Restaurants</h1>
       <section>
         <img
           src="https://cdn.pixabay.com/photo/2020/09/17/12/41/cafe-5579069_640.jpg"
